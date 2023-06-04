@@ -10,4 +10,4 @@
 ## 现在有什么？
 1. 现在就是有一些读书笔记之类的，还有很多的数据是在Notion，没有同步过来。
 2. 刷题记录。
-3. 网站有[Notion静态网页](www.tangzhipeng.top)，[正经博客](blog.tangzhipeng.top)，[基于区块链实现的博客](xlog.tangzhipeng.top)（DIY大佬），[网页记录工具](read.tangzhipeng.top)，[chat工具](chat.tangzhipeng.top)（已经失效）
+3. 网站有[Notion静态网页](https://www.tangzhipeng.top)，[正经博客](Https://blog.tangzhipeng.top)，[基于区块链实现的博客](https://xlog.tangzhipeng.top)（DIY大佬），[网页记录工具](http://read.tangzhipeng.top)，[chat工具](chat.tangzhipeng.top)（已经失效）
